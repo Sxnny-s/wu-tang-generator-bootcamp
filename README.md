@@ -23,6 +23,16 @@ The goal of this project is to create a Wu-Tang Clan name generator. This app pr
 
 3. **Result Display:** Once the user completes the survey, the generated name will be displayed, with some fun Wu-Tang-inspired flair.
 
+## Live Demo
+
+You can try the live version of the Wu-Tang Clan Name Generator here: [Wu-Tang Clan Name Generator Live Demo](https://your-live-demo-link.netlify.app/)
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/9f6b3851-fa96-4b29-a909-82bb9961a906)
+
+
+
 ## How to Run the Application
 
 ### Prerequisites
@@ -32,4 +42,9 @@ Ensure you have the following installed:
 - **Node.js** (for running the server and handling the backend)
 - **A web browser** (for interacting with the application)
 
+### Installation
 
+To run the app locally:
+
+1. Clone the repository:
+   
