@@ -38,5 +38,4 @@ Make sure you have the following:
 
 1. Clone or download the repository to your local machine.
 
-   ```bash
-   git clone https://github.com/yourusername/wu-tang-name-generator.git
+   
